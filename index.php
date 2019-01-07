@@ -38,9 +38,9 @@ a:hover
         <h4><font style=" font-family: Brush Script Std;">We Plan <b> <font color="red"> | </font> </b> We Organize <font color="red"> <b> | </font> </b> We Execute</font> </h4>
 		 <ul class="list-inline">
              <!-- <li><a href="https://www.facebook.com" style="text-decoration: none;"><i class="fa fa-facebook fa-3x"></a></i></li> -->
-              <li><a href="https://twitter.com/" style="text-decoration: none;"><i class="fa fa-instagram fa-3x"></a></i></li>
-              <li><a href="https://in.linkedin.com/in/" style="text-decoration: none;"><i class="fa fa-facebook-square fa-3x"></a></i></li>
-              <li><a href="https://plus.google.com/" style="text-decoration: none;"><i class="fa fa-twitter fa-3x"></a></i></li>
+              <li><a href="#" style="text-decoration: none;"><i class="fa fa-instagram fa-3x"></a></i></li>
+              <li><a href="#" style="text-decoration: none;"><i class="fa fa-facebook-square fa-3x"></a></i></li>
+              <li><a href="#/" style="text-decoration: none;"><i class="fa fa-twitter fa-3x"></a></i></li>
               <!-- <li><a href="https://youtube.com/c/" style="text-decoration: none;"><i class="fa fa-whatsapp fa-3x"></a></i></li> -->	 
               <li><a href="#" style="text-decoration: none;"><i class="fa fa-globe fa-3x"></a></i></li>
 			   <!--<li><i class="fa fa-pinterest fa-3x"></i></li>-->
